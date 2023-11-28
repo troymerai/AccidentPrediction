@@ -57,6 +57,6 @@ analysis/train.csv
 analysis/test.csv
 analysis/daegu_CCTV.csv
 analysis/daegu_childrenplaying.csv
-analysis/deagu_parkinglot.csv
+analysis/daegu_parkinglot.csv
 analysis/daegu_securitylight.csv
 analysis/countrywide_accident.csv
