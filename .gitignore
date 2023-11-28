@@ -53,10 +53,10 @@ Temporary Items
 
 # 데이터셋
 
-AccidentPrediction/analysis/train.csv
-AccidentPrediction/analysis/test.csv
-AccidentPrediction/analysis/daegu_CCTV.csv
-AccidentPrediction/analysis/daegu_childrenplaying.csv
-AccidentPrediction/analysis/deagu_parkinglot.csv
-AccidentPrediction/analysis/daegu_securitylight.csv
-AccidentPrediction/analysis/countrywide_accident.csv
+analysis/train.csv
+analysis/test.csv
+analysis/daegu_CCTV.csv
+analysis/daegu_childrenplaying.csv
+analysis/deagu_parkinglot.csv
+analysis/daegu_securitylight.csv
+analysis/countrywide_accident.csv
