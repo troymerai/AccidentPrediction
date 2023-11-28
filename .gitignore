@@ -49,3 +49,14 @@ Temporary Items
 *.icloud
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,macos
+
+
+# 데이터셋
+
+AccidentPrediction/analysis/train.csv
+AccidentPrediction/analysis/test.csv
+AccidentPrediction/analysis/daegu_CCTV.csv
+AccidentPrediction/analysis/daegu_childrenplaying.csv
+AccidentPrediction/analysis/deagu_parkinglot.csv
+AccidentPrediction/analysis/daegu_securitylight.csv
+AccidentPrediction/analysis/countrywide_accident.csv
